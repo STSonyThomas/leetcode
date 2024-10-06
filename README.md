@@ -13,4 +13,4 @@
 10. [Encode and Decode Strings](./Leetcode271/)
 ---
 # <u> Algorithms </u>
-
+11. [Majority Element](./Leetcode169/)
