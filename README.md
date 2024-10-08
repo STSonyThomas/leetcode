@@ -11,6 +11,8 @@
 9. [Alien Dictionary](./Leetcode269/)
 ## <u>Arrays and Hashing</u>
 10. [Encode and Decode Strings](./Leetcode271/)
+## <u>Linked List</u>
+11. [Reverse Linked List](./Leetcode206/)
 ---
 # <u> Algorithms </u>
 11. [Majority Element](./Leetcode169/)
