@@ -16,4 +16,4 @@
 12. [Merge Two Sorted Lists](./Leetcode21/)
 ---
 # <u> Algorithms </u>
-11. [Majority Element](./Leetcode169/)
+13. [Majority Element](./Leetcode169/)
