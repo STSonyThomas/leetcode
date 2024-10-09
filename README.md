@@ -13,6 +13,7 @@
 10. [Encode and Decode Strings](./Leetcode271/)
 ## <u>Linked List</u>
 11. [Reverse Linked List](./Leetcode206/)
+12. [Merge Two Sorted Lists](./Leetcode21/)
 ---
 # <u> Algorithms </u>
 11. [Majority Element](./Leetcode169/)
