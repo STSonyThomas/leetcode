@@ -15,6 +15,7 @@
 11. [Reverse Linked List](./Leetcode206/)
 12. [Merge Two Sorted Lists](./Leetcode21/)
 13. [Reorder List](./Leetcode143/)
+14. [Remove Nth Node From End of List](./Leetcode19/)
 ---
 # <u> Algorithms </u>
-13. [Majority Element](./Leetcode169/)
+15. [Majority Element](./Leetcode169/)
