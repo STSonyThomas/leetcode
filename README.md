@@ -16,6 +16,9 @@
 12. [Merge Two Sorted Lists](./Leetcode21/)
 13. [Reorder List](./Leetcode143/)
 14. [Remove Nth Node From End of List](./Leetcode19/)
+## <u>Trees</u>
+15. [Maximum Depth of Binary Tree](./Leetcode104/)
+16. [Invert Binary Tree](./Leetcode226/)
 ---
 # <u> Algorithms </u>
-15. [Majority Element](./Leetcode169/)
+17. [Majority Element](./Leetcode169/)
