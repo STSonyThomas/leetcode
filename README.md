@@ -19,6 +19,7 @@
 ## <u>Trees</u>
 15. [Maximum Depth of Binary Tree](./Leetcode104/)
 16. [Invert Binary Tree](./Leetcode226/)
+17. [Same Tree](./Leetcode100/)
 ---
 # <u> Algorithms </u>
-17. [Majority Element](./Leetcode169/)
+18. [Majority Element](./Leetcode169/)
